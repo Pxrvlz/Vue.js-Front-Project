@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { ref } from 'vue';
-import { products, formatPrice } from '../data/products';
+//import { ref } from 'vue';
+import { products} from '../data/products';
 import ProductCard from '../components/ProductCard.vue';
 </script>
 
